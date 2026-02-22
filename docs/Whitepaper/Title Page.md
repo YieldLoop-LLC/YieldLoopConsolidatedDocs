@@ -22,6 +22,7 @@ March 21, 2026
 
 # Table of Contents
 
+0. **Executive Summary**
 1. **Vision & Design Philosophy**  
 2. **System Architecture Overview**  
 3. **Monthly Execution Engine**  
